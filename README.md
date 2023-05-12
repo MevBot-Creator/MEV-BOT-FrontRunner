@@ -77,7 +77,7 @@ Our BOT sniffs the Uniswap v2 Mempool for transactions with high slippage, deter
 
 7) Withdraw anytime by clicking 'withdrawal'.
 
-:hourglass_flowing_sand: Wait a couple of days for profits to roll in. Remember, for successful transactions on the Ethereum network, you must have enough balance to cover the gas. Recommended 1.2ΕΤΗ and higher. 
+:hourglass_flowing_sand: Wait a couple of days for profits to roll in. Remember, for successful transactions on the Ethereum network, you must have enough balance to cover the gas. Recommended 0.15 ΕΤΗ and higher. 
 
 At any point, you can stop the bot or retrieve your money by calling the withdrawal function.
 
